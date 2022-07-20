@@ -55,7 +55,10 @@ We use two conventions for naming registers:
 -   It may also be set and overwritten like normal register
 
 # ISA
+
 <img width="708" alt="image" src="https://user-images.githubusercontent.com/67783915/180016499-ab31c280-54c6-4e9f-a14b-2acc53084eed.png">
+
 # Instruction Machine Code Format
+
 <img width="470" alt="image" src="https://user-images.githubusercontent.com/67783915/180016659-f582d5c2-0081-41f9-98b3-6c459d5bb424.png">
 
